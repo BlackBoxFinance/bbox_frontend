@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.js": "/BlackBoxFinance/bbox_frontendstatic/js/main.f9f886d6.chunk.js",
+    "main.js.map": "/BlackBoxFinance/bbox_frontendstatic/js/main.f9f886d6.chunk.js.map",
+    "runtime-main.js": "/BlackBoxFinance/bbox_frontendstatic/js/runtime-main.1eea78e5.js",
+    "runtime-main.js.map": "/BlackBoxFinance/bbox_frontendstatic/js/runtime-main.1eea78e5.js.map",
+    "static/js/2.c2acd23f.chunk.js": "/BlackBoxFinance/bbox_frontendstatic/js/2.c2acd23f.chunk.js",
+    "static/js/2.c2acd23f.chunk.js.map": "/BlackBoxFinance/bbox_frontendstatic/js/2.c2acd23f.chunk.js.map",
+    "static/js/3.7d420618.chunk.js": "/BlackBoxFinance/bbox_frontendstatic/js/3.7d420618.chunk.js",
+    "static/js/3.7d420618.chunk.js.map": "/BlackBoxFinance/bbox_frontendstatic/js/3.7d420618.chunk.js.map",
+    "static/js/4.c7014b64.chunk.js": "/BlackBoxFinance/bbox_frontendstatic/js/4.c7014b64.chunk.js",
+    "static/js/4.c7014b64.chunk.js.map": "/BlackBoxFinance/bbox_frontendstatic/js/4.c7014b64.chunk.js.map",
+    "static/js/5.bab522b2.chunk.js": "/BlackBoxFinance/bbox_frontendstatic/js/5.bab522b2.chunk.js",
+    "static/js/5.bab522b2.chunk.js.map": "/BlackBoxFinance/bbox_frontendstatic/js/5.bab522b2.chunk.js.map",
+    "static/js/6.776cb432.chunk.js": "/BlackBoxFinance/bbox_frontendstatic/js/6.776cb432.chunk.js",
+    "static/js/6.776cb432.chunk.js.map": "/BlackBoxFinance/bbox_frontendstatic/js/6.776cb432.chunk.js.map",
+    "static/js/7.70f81c34.chunk.js": "/BlackBoxFinance/bbox_frontendstatic/js/7.70f81c34.chunk.js",
+    "static/js/7.70f81c34.chunk.js.map": "/BlackBoxFinance/bbox_frontendstatic/js/7.70f81c34.chunk.js.map",
+    "static/js/8.8eae2dea.chunk.js": "/BlackBoxFinance/bbox_frontendstatic/js/8.8eae2dea.chunk.js",
+    "static/js/8.8eae2dea.chunk.js.map": "/BlackBoxFinance/bbox_frontendstatic/js/8.8eae2dea.chunk.js.map",
+    "static/js/9.1166b0cd.chunk.js": "/BlackBoxFinance/bbox_frontendstatic/js/9.1166b0cd.chunk.js",
+    "static/js/9.1166b0cd.chunk.js.map": "/BlackBoxFinance/bbox_frontendstatic/js/9.1166b0cd.chunk.js.map",
+    "static/js/10.a254f695.chunk.js": "/BlackBoxFinance/bbox_frontendstatic/js/10.a254f695.chunk.js",
+    "static/js/10.a254f695.chunk.js.map": "/BlackBoxFinance/bbox_frontendstatic/js/10.a254f695.chunk.js.map",
+    "index.html": "/BlackBoxFinance/bbox_frontendindex.html",
+    "static/js/2.c2acd23f.chunk.js.LICENSE.txt": "/BlackBoxFinance/bbox_frontendstatic/js/2.c2acd23f.chunk.js.LICENSE.txt",
+    "static/js/3.7d420618.chunk.js.LICENSE.txt": "/BlackBoxFinance/bbox_frontendstatic/js/3.7d420618.chunk.js.LICENSE.txt",
+    "static/js/4.c7014b64.chunk.js.LICENSE.txt": "/BlackBoxFinance/bbox_frontendstatic/js/4.c7014b64.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1eea78e5.js",
+    "static/js/2.c2acd23f.chunk.js",
+    "static/js/main.f9f886d6.chunk.js"
+  ]
+}
