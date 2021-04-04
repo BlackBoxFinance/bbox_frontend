@@ -12,11 +12,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'https://bboxdex.netlify.app/',
+        href: 'https://swap.blackbox.finance/',
       },
       {
         label: 'Liquidity',
-        href: 'https://bboxdex.netlify.app/#/pool',
+        href: 'https://farm.blackbox.finance',
       },
     ],
   },
