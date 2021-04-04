@@ -3,8 +3,7 @@ import { usePriceCakeBusd } from 'state/hooks'
 
 const useGetDocumentTitlePrice = () => {
   const cakePriceUsd = usePriceCakeBusd()
-  useEffect(() => {
-    
-  })
+  /* tslint:disable:no-empty */
+  useEffect(() => {/**/})
 }
 export default useGetDocumentTitlePrice
